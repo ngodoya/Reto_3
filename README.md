@@ -163,9 +163,6 @@ Minimal OOP model for a restaurant:
 
 ---
 
-## Usage (one line flow)
-
-Build menu → create Order → add items with quantities → call `order.show_order()` to print subtotal and final total with discount.
 # Restaurant
 ```mermaid
 classDiagram
